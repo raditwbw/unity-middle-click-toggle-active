@@ -1,0 +1,23 @@
+{
+    "name": "com.rdt.middle-click",
+    "displayName": "Middle Click Toggle",
+    "description": "Middle Click Toggle gameobject active.",
+    "version": "0.1.0",
+    "unity": "2022.3",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/raditwbw/unity-middle-click-toggle-active.git"
+    },
+    "author": {
+        "name": "rdt",
+        "email": "rdt.wbw.is@live.com",
+        "url": "https://github.com/raditwbw"
+    },
+    "dependencies": {},
+    "keywords": [
+        "click",
+        "editor",
+        "toggle",
+    ]
+}
